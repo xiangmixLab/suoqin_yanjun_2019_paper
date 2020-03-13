@@ -1,0 +1,7 @@
+extract the neuron data using CNMF-E before using :
+dryland_single_mouse_illustration.m;
+dryland_single_mouse_illustration_forgeR.m.
+
+dryland_single_mouse_illustration.m:single water cell
+dryland_single_mouse_illustration_forgeR.m:multiple water cell
+
